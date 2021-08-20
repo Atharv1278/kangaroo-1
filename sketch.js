@@ -88,7 +88,7 @@ function draw() {
     obstaclesGroup.setVelocityXEach(0);
     shrubsGroup.setVelocityXEach(0);
 
-    //change the trex animation
+    //change the kangaroo animation
     kangaroo.changeAnimation("collided",kangaroo_collided);
     
     //set lifetime of the game objects so that they are never destroyed
