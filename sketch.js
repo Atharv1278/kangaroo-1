@@ -4,7 +4,7 @@ var END = 0;
 var WIN = 2;
 var gameState = PLAY;
 
-var trex, trex_running, trex_collided;
+var kangaroo, kangaroo_running , kangaroo_collided;
 var jungle, invisiblejungle;
 
 var obstaclesGroup, obstacle1;
